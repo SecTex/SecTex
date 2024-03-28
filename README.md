@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 I’m currently a Fullstack developer at [LIS GmbH](https://lis-gmbh.com/)
-- 💬 Ask me about **OAuth 2.0, OpenID Connect, ASP.NET Core, Angular 2 and Web-Application Security**
+- 💬 Ask me about **OAuth 2.0, OpenID Connect, ASP.NET Core, Angular 2, [ABP Framework](https://github.com/abpframework/abp) and Web-Application Security**
 
 <h1 dir="auto">
   Connect with me
