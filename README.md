@@ -4,6 +4,9 @@
 
 - 🔭 I’m currently a Fullstack developer at [LIS GmbH](https://lis-gmbh.com/)
 - 💬 Ask me about **OAuth 2.0, OpenID Connect, ASP.NET Core, Angular 2, [ABP Framework](https://github.com/abpframework/abp) and Web-Application Security**
+- 🎮 Send me your "Flappy Wings" Seed/Score (optimized for mobile widescreen)
+  
+  <a href="https://sectex.github.io/flappy-wings/"><img src="./flappy-wings.png"/></a>
 
 <h1 dir="auto">
   Connect with me
